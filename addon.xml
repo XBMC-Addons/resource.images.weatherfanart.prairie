@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.images.weatherfanart.prairie" name="Little House On The Prairie Weather Fanart" version="0.0.1" provider-name="Silverxxx,Team Kodi">
+	<extension point="kodi.resource.images" type="weather" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Little House On The Prairie Weather Fanart</summary>
+		<description lang="en">Variations of the Little House On The Prairie image. One for every weather condition</description>
+		<platform>all</platform>
+		<forum>http://forum.kodi.tv/showthread.php?tid=51991</forum>
+	</extension>
+</addon>
