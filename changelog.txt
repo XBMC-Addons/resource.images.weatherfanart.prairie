@@ -1,3 +1,6 @@
+v0.0.3
+- no need for separate folders
+
 v0.0.2
 - Compress into XBT file
 
