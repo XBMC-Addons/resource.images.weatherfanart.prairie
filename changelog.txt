@@ -1,5 +1,8 @@
+v0.0.4
+- no need to store images in separate folders
+
 v0.0.3
-- no need for separate folders
+- Add compile flag for packaging
 
 v0.0.2
 - Compress into XBT file
